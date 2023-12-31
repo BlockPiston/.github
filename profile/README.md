@@ -1,14 +1,3 @@
 This organization aims to provide continued build support for selective Minecraft 1.7.10 mods, so you can enjoy the game with some of the greatest mods of the time
 
-Please reach out to me if you want another mod preserved here
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+As I discover mods that are either hard to find or have gone unsupported, I will add them here. Please reach out to me if you want another mod preserved here. (Discussions in the organization, or any repo works)
