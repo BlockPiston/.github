@@ -1,5 +1,7 @@
 This organization aims to provide continued build support for selective Minecraft 1.7.10 mods, so you can enjoy the game with some of the greatest mods of the time
 
+Please reach out to me if you want another mod preserved here
+
 <!--
 
 **Here are some ideas to get you started:**
